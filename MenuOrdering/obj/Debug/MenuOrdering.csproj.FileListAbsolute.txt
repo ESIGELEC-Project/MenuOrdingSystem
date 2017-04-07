@@ -1,0 +1,6 @@
+X:\menu_order_websit\MenuOrdering\MenuOrdering\obj\Debug\MenuOrdering.csprojResolveAssemblyReference.cache
+X:\menu_order_websit\MenuOrdering\MenuOrdering\bin\MenuOrdering.dll.config
+X:\menu_order_websit\MenuOrdering\MenuOrdering\bin\MenuOrdering.dll
+X:\menu_order_websit\MenuOrdering\MenuOrdering\bin\MenuOrdering.pdb
+X:\menu_order_websit\MenuOrdering\MenuOrdering\obj\Debug\MenuOrdering.dll
+X:\menu_order_websit\MenuOrdering\MenuOrdering\obj\Debug\MenuOrdering.pdb

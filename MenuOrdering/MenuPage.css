@@ -1,0 +1,14 @@
+﻿
+div.order_summary div.order{
+    display:inline-block;
+    height: 100%;
+    margin: 1em;
+}
+.order{
+    width:50%;
+    float:left;
+}
+.order_summary{
+    width:50%;
+    float:right;
+}
